@@ -1,0 +1,9 @@
+Login ADM demo
+
+Login: demo_novo@gmail.com
+Senha: demo@2023
+
+Login Aluno demo
+
+Login: aluno_demo@gmail.com
+Senha: demo@2023
